@@ -1,6 +1,6 @@
 # Project Title
 
-SolidityMetaCrafter
+Getting Started with SolidityMetaCrafter
 
 ## Description
 
