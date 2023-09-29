@@ -54,6 +54,7 @@ Make sure you choose MyToken.sol as the contract prior to launch.
 ## Authors
 
 Contributors names and contact info
+
 Richard Espino(richespino17@gmail.com)
 
 ## License
